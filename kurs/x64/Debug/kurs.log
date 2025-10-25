@@ -1,0 +1,45 @@
+﻿  MainForm.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\add.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "MainForm.cpp")
+  
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\modify.h(424,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "MainForm.cpp")
+  
+  add.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\add.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "add.cpp")
+  
+  avtoriz.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\reg.h(379,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "avtoriz.cpp")
+  
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\add.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "avtoriz.cpp")
+  
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\modify.h(424,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "avtoriz.cpp")
+  
+  done.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\add.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "done.cpp")
+  
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\modify.h(424,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "done.cpp")
+  
+  predst.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\add.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "predst.cpp")
+  
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\modify.h(424,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "predst.cpp")
+  
+  vazno.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\add.h(370,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "vazno.cpp")
+  
+C:\Users\Admin\OneDrive\Рабочий стол\kurs\kurs\modify.h(424,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "vazno.cpp")
+  
+  Создание кода...
+  add.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kurs.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\kurs\x64\Debug\kurs.exe

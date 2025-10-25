@@ -1,0 +1,138 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C28251",
+          "message": {
+            "text": "Несогласованная аннотация для \"WinMain\": данный экземпляр содержит нет аннотаций. См. c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\um\\winbase.h(1037). "
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/avtoriz.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/OneDrive/Рабочий стол/kurs/kurs/avtoriz.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "WinMain",
+                  "decoratedName": "?WinMain@@$$J0YAHPEAUHINSTANCE__@@0PEADH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.43.34810.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/avtoriz.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "1d25697edc35eea71912fc16f72ebab9f43c738831e1acc5f9bcf674bc5bbc17"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/avtoriz.h"
+          },
+          "hashes": {
+            "sha-256": "0f6a22deb46c63ce584eeaa812981177166555bf645528fe33372061f725d3da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/reg.h"
+          },
+          "hashes": {
+            "sha-256": "835b4aa2c225826cdca86b947c1eb910c027f1018ff1fa06757e052eec8eddd0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/mainform.h"
+          },
+          "hashes": {
+            "sha-256": "9e326b6c73e056e48d7496b4ff73aea02d602c392298f11b22687cd4ad929db4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/add.h"
+          },
+          "hashes": {
+            "sha-256": "cc7b935380dd55b9658cba2fdf49d6524daf22bb9b0b0e5dadf4cb426069a431"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/done.h"
+          },
+          "hashes": {
+            "sha-256": "419605e38b3517345111c53ac3e4a05a6f6944eae06a21e7734c57bb2c0e4077"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/modify.h"
+          },
+          "hashes": {
+            "sha-256": "d60d00f8a7ca389de05ed3f17cd5f0e240e5381b23628ae048832d3215889a25"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/f1.h"
+          },
+          "hashes": {
+            "sha-256": "d1a5414a5aeed276f13e54cdaeddf52eef7ee69ac44ae208bdaa06cdaeca936e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/predst.h"
+          },
+          "hashes": {
+            "sha-256": "277311d30270a889079509c94002715ee19bd3d9c2b14ebf773dde0194804473"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/onedrive/рабочий стол/kurs/kurs/vazno.h"
+          },
+          "hashes": {
+            "sha-256": "4b30e270e9d3232717432b235bf94aa8b765596c13690b98b7198a0d77d18fe4"
+          }
+        }
+      ]
+    }
+  ]
+}
